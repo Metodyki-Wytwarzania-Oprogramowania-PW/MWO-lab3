@@ -1,4 +1,4 @@
 using
 import
-main
+void main
 exit
