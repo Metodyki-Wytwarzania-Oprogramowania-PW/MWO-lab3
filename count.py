@@ -1,9 +1,10 @@
 
-i=15
-sum=0
+i = 15
+sum = 0
 
-for x in range(i):
-    sum*=x
+while i:
+    i -= 1
+    sum -= i
 
 
-print(sum)
+print(f'sum:{sum}\twith i:{i}')
