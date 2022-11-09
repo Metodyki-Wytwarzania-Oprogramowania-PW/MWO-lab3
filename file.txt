@@ -1,4 +1,14 @@
 using
+imd main publ port
+using
+import
+static voiic string void [] args
+exit
+!!!!konflikt
+static void main public string void [] args
+exit
+!!!!konflikt
+using
 import
 static void main public string void [] args
 exit
