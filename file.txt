@@ -1,5 +1,5 @@
 using
 import
-void main
+static void main public string void [] args
 exit
-konflikt
+!!!!konflikt
